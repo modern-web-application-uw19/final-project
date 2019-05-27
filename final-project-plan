@@ -1,0 +1,27 @@
+Name of Project: TurnipSwap 
+
+Elevator Pitch: 
+Turnip Swap is an App for gardner’s in the Seattle who wish to swap produce access produce they have grown with other gardners. For example, if a user has too many zucchinis then they can swap with another user for their access potatoes.  Users will be able to reduce food waste and exchange for produce that they do not have.  
+
+List of dependencies: 
+Npm modules 
+Firebase to store user data 
+
+Tasks the need to be completed for the Project: 
+Create the create-react-app scaffold
+Connect app to Firebase
+CSS styling 
+Render react state 
+Test with mock data 
+Nice to Haves: 
+User’s be able to add profile picture 
+Allow users to search produce
+
+3 Week Plan: 
+Week One: Set up scaffolding - get modules and basics in place, test with mock data 
+Week Two: Connect app to Firebase 
+Week Three: CSS Styling / User Testing
+
+Wireframes: 
+https://drive.google.com/open?id=1PbMW2A9_4bCyUAxDsemoA-uSbfUj6IwRex0NEUsa6-A
+https://drive.google.com/open?id=1qpdPFVSHqf_FmsgsBDWJtCS-i8Zc_QkbeHm132A6qog
