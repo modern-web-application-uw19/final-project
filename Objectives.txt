@@ -1,0 +1,33 @@
+Trivia Quiz Game
+
+This game will allow users to quiz themselves on a variety of subjects. It is a fun distraction but will also be helpful for memorizing information. The database is publically available so users are free to submit their own questions.
+
+Wireframe
+Dependencies
+React-dom
+React-router-dom
+Trivia API: https://opentdb.com/
+Firebase
+
+A list of tasks that need to be completed:
+Call Trivia API and display results
+Set-up routes for components
+Allow users to select options (category, difficulty, type)
+Create authentication system for user to log-in (optional)
+Save results for user to record their score (optional)
+
+Plan for the next 3 weeks:
+
+Week 1
+Create route components
+Fetch from API
+
+Week 2
+Options page for category, difficulty, type
+Creates customized API based on options user selects
+
+Week 3
+Styling CSS
+Authentication system via Firebase for users to log in and quiz scores will be saved (optional)
+Publish online (optional)
+
