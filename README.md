@@ -2,9 +2,8 @@
 
 * Final project idea
 
-## The value that your project will provide to the end user
+## Recipe Search
 
-* Recipe Search
 * An app for finding recipes for ingredient (or list of ingredients) you have.
   * Will be using this project myself for a dinner ideas based on what ingredients i have at the moment.
   * This project will help waste less food and eat interesting meals.
@@ -19,7 +18,7 @@
   * Font Awesome 
   * Google fonts
 
-* A list of tasks that need to be completed for your project
+* A list of tasks that need to be completed for the project
   * Setup `create-react-app` scaffold
   * Call the Food2fork API and print results
   * Store API results in React component state
