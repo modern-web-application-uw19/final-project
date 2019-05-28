@@ -1,0 +1,36 @@
+Name: Data Library
+
+Elevator pitch:
+ The Data Library will be built with basic semantic UI elements. This application will show how easy it uses a React component and read a set of items from a NYTimes API.
+ This will make a request to fetch the items and then add them to the state after receiving the response. The items can be filtered and listed in multiple pages.
+ 
+Dependencies:
+ - react
+ - react-dom
+ - react-router-dom
+ - react-scripts
+ - NYTimes API
+ - enzyme
+
+Tasks need to be done:
+ - Setup create-react-app scaffold
+ - Deploy the Libarary app onto a web server
+ - Create the Library page and call the API to print the results
+ - Store the API results in React component state
+ - Build filter feature
+ - Build pagination feature
+
+Plan for 3 weeks:
+ - Week 1: 
+   - Setup create-react-app scaffold
+   - Deploy the Libarary app onto a web server
+   - Create the Library page and call the API to print the results
+   - Store the API results in React component state
+   - Utilize CSS and images (Phase 1)
+ - Week 2: 
+   - Build filter feature
+   - Build pagination feature
+   - Utilize CSS and images (Phase 2) 
+ - Week 3: 
+   - Perform some basic user testing
+   - Clean up and remove debugging messages
