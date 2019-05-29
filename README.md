@@ -1,49 +1,53 @@
-# Week 7 Assignment
+# Squib
 
-Your assignment for this week is to think of a final project idea and create a plan for the project.
+A squib kick is a defensive maneuver in American Football to limit ability of the receiving team to return a kickoff for yardage. The Squib app is a tool for avid, statistics-driven fantasy football players to looking to gain an advantage in their upcoming draft. The app will serve as a source of truth for statistics on all NFL players and allow the user to input custom scoring parameters to compare players accross the league in order to strategize their draft plan. 
 
-## Final Project Requirements
 
-* The project must be a React application, bootstrapped with `create-react-app`
-* Your app must be created and visible in a Github repo under your Github account
-* Your app must be your own work. You may have a partner if you'd like, but be aware that you'll need to come up with a strategy for working together. Most developers on small projects create branches for new features/fixes, then merge them back into the `master` branch. Merge conflicts can arise, and you'll need to know how to resolve them.
-* Your app should be deployed onto a web server and publicly accessible
-* Your app should be polished. Some recommendations for this requirement:
-  * Remove `console.log` statements once you're finished with development
-  * Utilize CSS and images to make your app look great
-  * Check for any React errors in the console
-  * Perform some basic user testing. Have other people use your app and receive feedback on usability
-  * Keep your feature set small, so you'll have time to polish the app
 
-Other than the above requirements, you're encouraged to be creative and create something you're proud of. It can be as simple or as complex as you want, and it should be high quality.
+## Dependencies
 
-## Assignment Requirements
+- NFL API - This will be the source for player statistics. 
+- Bootstrap - Used for laying out the app
+- Redux — Used to store user data like custom scoring scenarios
+- React Router - For page hierarchy 
+- Firebase — Database for saving users and authorization
 
-Above are the requirements for the project. For this week however, you'll need to create a plan for your project. More details are to come, but you'll need to create a pull request with the following:
+## Wireframe
 
-* The name of your project
-* An elevator pitch (a paragraph about what your project does). Be sure to address:
-  * Who will use your project
-  * The value that your project will provide to the end user
-* [Wireframes](https://en.wikipedia.org/wiki/Website_wireframe) to help visualize what your project will look like
-  * These wireframes do not have to be high-fidelity. You're free to use boxes, hand drawings, etc.
-* A list of dependencies you'll be using for your project (npm modules, APIs, Firebase, etc.)
-  * This list will likely change as you work on your project, but listing your dependencies will help you visualize the complexity of the project
-* A list of tasks that need to be completed for your project
-  * Example list of tasks for the Star Wars films example:
-    * Setup `create-react-app` scaffold
-    * Call the Star Wars API and print results
-    * Store API results in React component state
-    * Render React state
-* A plan for the next 3 weeks and what you plan to accomplish each week
+![Squib-wires](./Squib-wires.png)
 
-## Recommendations
 
-* Keep the scope of your project small. A small, completed project is much better than a large, incomplete project. You can create a list of "nice to have" features that you can work on if you have time.
-* Ensure you have plenty of buffer time in your schedule. Life events pop up, and tasks usually take longer than initially estimated.
 
-## Submitting your Project Idea
+## Task List
 
-1. Fork this repository
-2. Add your project name, elevator pitch, wireframes, dependencies, task list, and plan to the Github repo (you can add a markdown file + images or links to images)
-3. Create a pull request
+1. Initialization, dependency installation and build configuration
+2. Server environment and deployment configuration
+3. Create page routing and page hierarchy. 
+4. Scaffold site by building static components of all functional areas of the app
+5. Build redux store for handling state within the app
+6. Integrate API calls for pulling dynamic data
+7. (Nice to have) Implement auth and db through firebase (potentially use another DB service) to save settings
+8. Style app
+
+
+
+## Build Plan
+
+### Week 1
+
+- Initialize app 
+- Server environment config
+- Build page hierarchy with react router
+- Begin build of static components
+
+### Week 2
+
+- Continue build of static components
+- Build Redux Store
+- Implement API calls
+- Implement DB solution
+
+### Week 3
+
+- Implement authentication for new users
+- Style the app
