@@ -1,3 +1,4 @@
+SCHEDULE ME APP
 Personal Goals:
 Use Redux
 Use Router
