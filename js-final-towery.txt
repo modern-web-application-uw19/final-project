@@ -1,0 +1,20 @@
+National Park Service Sites in Washington State
+
+This is a site for locals and visitors to Washington State that would like to know where there are National Parks, Historic Sites, Recreational Areas, etc.
+Information that will be provided is a list of all NPS managed area and a link to each area that will provide details as to an overview of the area, access requirements, operating times, location, and a link to the NPS website for the area.
+There will also be an area where individuals can make comments or rate the area.
+
+Dependencies
+API with the NPS to get park list and details list
+Firebase for persistence with user comments
+Looking at ways to render multiple mages, but due to difficulties faced, may look at paring down the list of images
+
+Tasks
+Develop site framework – wk1
+Access NPS data – wk1
+Get Firebase access – wk2
+Develop Router for Main list to detail and return – wk1
+Develop form for comments – wk2
+Develop save and render comments from Firebase – wk2
+Develop image imports – wk3
+
