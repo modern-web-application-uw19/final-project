@@ -1,7 +1,8 @@
-﻿Name: React Color Scheme Thing
+Name: React Color Scheme Thing
 
 Elevator Pitch
-	This project will be used by designers who want to ensure their color choices properly reflect their intent and are suitable for the intended audience.
+	This project will be used by designers who want to ensure their color choices properly reflect their intent and are suitable for 
+	the intended audience.
 
 Wireframes
 	See wireframe.htm
@@ -19,3 +20,8 @@ Task List
 		EG: #E1F243 is a shade of yellow.
 	Use that base color to look up color information in the Firebase table.
 	Display that info in the #meaningOutput div using another component.
+	
+Schedule for the next 3 weeks
+	Week 1: API connection, Firebase 
+	Week 2: Basic layout, write code to identify basic color
+	Week 3: CSS tweaks
