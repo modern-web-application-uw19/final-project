@@ -24,6 +24,7 @@ The rules for building a squad are fairly complex for the amount of time I have 
 * Create component for displaying available ships from json file
 * Create component for displaying selected ships and total squad points
 * Create printer friendly output 
+* Create tests
 * Publish to ZEIT
 
 ## Plan
@@ -34,7 +35,7 @@ I will create the data file and the components for display and selection of ship
 
 ### Week 2
 
-I will publish the application to ZEIT.
+I will create automated tests and publish the application to ZEIT.
 Time permitting, I will create a printer friendly output format.
 
 ## Wireframe
