@@ -13,7 +13,7 @@
   - react-bootstrap
   - Express
 
-- [Wireframes](https://en.wikipedia.org/wiki/Website_wireframe)
+* Wireframes: Please check the Wireframes folder.
 
 * Tasks to be done:
 
