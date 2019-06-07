@@ -1,0 +1,6 @@
+My project is a simple book search which shows list of book titles, autors and pictures 
+using title provided by user in the search bar.
+I'm using google book API to achive this goal and also I'm using Bootstrap library to style
+my web page.
+In this project I'm trying to use React's main features like independent components and proper
+loop functions in order to visualize them neatly on the page.
