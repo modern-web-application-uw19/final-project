@@ -1,0 +1,8 @@
+ Setup `create-react-app`.
+ Catch the `Search` button click event.
+ Read the search bar value.
+ Use the search bar value and concatinate it with API mane link.
+ Call the google book API.
+ Store API results in React component state
+ Render React state
+ Direct the user to the google page for more info if user decided to push the `Read more` button

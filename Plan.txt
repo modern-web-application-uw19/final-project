@@ -1,0 +1,3 @@
+WEEK 1: learning about Bootstrap since I never used it before.
+WEEK 2: designing the main page and components and icons.
+WEEK 3: adding logic in the form of react application to the html code.

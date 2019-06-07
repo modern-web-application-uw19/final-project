@@ -1,3 +1,6 @@
+
+project name:     Book Search
+
 My project is a simple book search which shows list of book titles, autors and pictures 
 using title provided by user in the search bar.
 I'm using google book API to achive this goal and also I'm using Bootstrap library to style
